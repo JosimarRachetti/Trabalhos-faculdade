@@ -1,3 +1,3 @@
-REPOSITORIO FOCADO EM ADICIONAR TRABALHOS REALIZADOS NA FACULDADE DO CURSO DE ANALISE E DESENVOLVIMENTO DE SISTEMAS
+#Repositorio focado para postagem de codigos desenvolvidos no periodo da faculdade
 
-CADA BRANCH ESTÁ RELACIONADA A UMA MATÉRIA
+- Cada branch esta relacionada a uma matéria
