@@ -1,3 +1,3 @@
-REPOSITORIO FOCADO EM ADICIONAR TRABALHOS REALIZADOS NA FACULDADE DO CURSO DE ANALISE E DESENVOLVIMENTO DE SISTEMAS
-
-CADA BRANCH ESTÁ RELACIONADA A UMA MATÉRIA
+Trabalho progromação orientada Objetos Cloud Computing
+CRUD feito com API getway 
+4 lambdas (Create - Post, Read - Get, Uptade - Put, Delete - Delete)
